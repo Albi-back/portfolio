@@ -13,7 +13,7 @@ function setUserName() {
     setUserName();
   } else {
     const storedName = localStorage.getItem("name");
-    myHeading.textContent = `Hello, ${myName}, I'm Albi`;
+    myHeading.textContent = `Hi, ${myName}, I'm Albi;`;
   }
 }
 (function () {
