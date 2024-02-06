@@ -3,8 +3,17 @@ ul,
 p {
   color: lightslategray;
 }
+h1 {
+  margin: 0;
+  text-align: center;
+  text-shadow: 3px, 3px, 1px black;
+}
+
 body {
   background-color: #00101c;
+  margin: 10;
+
+  padding: 20px 0;
 }
 img {
   width: 30px;
