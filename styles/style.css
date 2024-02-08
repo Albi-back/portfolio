@@ -27,9 +27,12 @@ p.para1 {
   font-size: x-large;
 }
 body {
-  margin: 5%;
-  background-color: #00101c;
-  background-image: url(../images/background.jpg);
+  margin: 20px;
+
+  background-image: url(../images/background.gif);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   padding: 20px 0;
 }
 button {
