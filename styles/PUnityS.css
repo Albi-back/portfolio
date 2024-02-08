@@ -1,5 +1,5 @@
 body {
-  margin: 20;
+  margin: 20px;
   background-color: #00101c;
   background-image: url(../images/background.jpg);
   padding: 20px 0;
@@ -13,17 +13,19 @@ h1.pageUnity {
 }
 iframe.Showreel {
   margin-left: 5%;
-  margin-top: 6%;
-  margin-bottom: 5%;
+  margin-top: 5%;
+  margin-bottom: 7%;
   position: absolute;
 }
 p.title {
+  margin-top: 2%;
   text-align: center;
   color: lightslategray;
   font-family: "Courier New", Courier, monospace;
   font-size: xx-large;
 }
 p.ps {
+  margin-top: 5%;
   text-align: left;
   margin-left: 37%;
   color: lightslategray;
