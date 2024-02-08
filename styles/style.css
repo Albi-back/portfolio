@@ -14,7 +14,7 @@ h2 {
 
 @keyframes slidein {
   from {
-    margin-left: 100%;
+    margin-left: 50%;
     width: 100%;
   }
 
@@ -27,7 +27,7 @@ p.para1 {
   font-size: x-large;
 }
 body {
-  margin: 20;
+  margin: 5%;
   background-color: #00101c;
   background-image: url(../images/background.jpg);
   padding: 20px 0;
