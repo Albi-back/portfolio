@@ -2,7 +2,7 @@ h1,
 h2,
 ul,
 p.para1 {
-  color: lightslategray;
+  color: white;
   font-family: "Courier New", Courier, monospace;
 }
 h1,
@@ -14,7 +14,7 @@ h2 {
 
 @keyframes slidein {
   from {
-    margin-left: 50%;
+    margin-left: 30%;
     width: 100%;
   }
 
@@ -27,12 +27,13 @@ p.para1 {
   font-size: x-large;
 }
 body {
-  margin: 20px;
-
+  margin: 2%;
+  size: initial;
   background-image: url(../images/background.gif);
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+  overflow: hidden;
+
   padding: 20px 0;
 }
 button {
