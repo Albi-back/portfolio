@@ -1,0 +1,30 @@
+body {
+  margin: 20px;
+
+  background-image: url(../images/background.gif);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 20px 0;
+}
+h1.pageUnity {
+  top: 0;
+  text-align: center;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: xx-large;
+}
+p.title {
+  margin-top: 2%;
+  text-align: center;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: xx-large;
+}
+p.single {
+  margin-top: 2%;
+  text-align: center;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: x-large;
+}
