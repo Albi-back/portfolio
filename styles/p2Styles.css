@@ -1,0 +1,10 @@
+body {
+  margin: 20;
+  background-color: #00101c;
+  background-image: url(../images/background.jpg);
+  padding: 20px 0;
+}
+h1.page2 {
+  top: 0;
+  text-align: center;
+}
