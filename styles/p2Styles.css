@@ -7,4 +7,52 @@ body {
 h1.page2 {
   top: 0;
   text-align: center;
+  color: lightslategray;
+  font-family: "Courier New", Courier, monospace;
+  font-size: xx-large;
+}
+p {
+  margin-top: 5%;
+  text-align: center;
+  color: lightslategray;
+  font-family: "Courier New", Courier, monospace;
+  font-size: x-large;
+}
+button.Unity {
+  margin-top: 10%;
+  margin-left: 22%;
+  margin-right: 15%;
+  border: black 3px;
+  background-color: #04aa6d; /* Green */
+
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+button.Cpp {
+  background-color: #04aa6d; /* Green */
+  border: black 3px;
+  margin-top: 10%;
+  margin-right: 15%;
+  padding: 15px 32px;
+  object-position: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+button.Other {
+  background-color: #04aa6d; /* Green */
+  margin-top: 10%;
+  border: black 3px;
+  padding: 15px 32px;
+  object-position: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+a {
+  text-decoration: none;
+  color: white;
 }
