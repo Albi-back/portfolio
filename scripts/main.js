@@ -6,4 +6,4 @@ let myHeading3 = document.querySelector("h1.page2");
 
 myHeading.textContent = `Hi, I'm Albi;`;
 myHeading2.textContent = `A programmer;`;
-myHeading3.textContent = `My unity projects`;
+myHeading3.textContent = `My projects`;
