@@ -4,8 +4,7 @@ body {
   background-image: url(../images/background.jpg);
   padding: 20px 0;
 }
-h1.page2,
-h1.pageUnity {
+h1.page2 {
   top: 0;
   text-align: center;
   color: lightslategray;
@@ -56,30 +55,4 @@ button.Other {
 a {
   text-decoration: none;
   color: white;
-}
-iframe.Showreel {
-  margin-left: 5%;
-  margin-top: 6%;
-  margin-bottom: 5%;
-  position: absolute;
-}
-p.title {
-  text-align: center;
-  color: lightslategray;
-  font-family: "Courier New", Courier, monospace;
-  font-size: xx-large;
-}
-p.ps {
-  text-align: left;
-  margin-left: 37%;
-  color: lightslategray;
-  font-family: "Courier New", Courier, monospace;
-  font-size: x-large;
-  margin-bottom: 9%;
-}
-iframe.grappler {
-  margin-left: 65%;
-
-  margin-bottom: 5%;
-  position: absolute;
 }
