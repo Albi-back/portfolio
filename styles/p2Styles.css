@@ -6,6 +6,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   padding: 20px 0;
+  overflow: hidden;
 }
 h1.page2 {
   top: 0;
@@ -38,4 +39,42 @@ button.worklink {
 a {
   text-decoration: none;
   color: white;
+}
+button.Home {
+  text-align: left;
+  background-color: #04aa6d; /* Green */
+  border: none;
+
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+button.work {
+  background-color: #04aa6d; /* Green */
+  border: none;
+
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+footer {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  background-color: #00101c;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+img {
+  width: 30px;
+  height: 30px;
 }
