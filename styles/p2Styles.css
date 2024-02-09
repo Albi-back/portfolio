@@ -6,7 +6,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   padding: 20px 0;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 h1.page2 {
   top: 0;
