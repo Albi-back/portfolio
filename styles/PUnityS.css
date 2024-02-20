@@ -7,6 +7,7 @@ body {
   background-size: cover;
   padding: 20px 0;
   overflow-x: hidden;
+  margin-bottom: 10%;
 }
 h1.pageUnity {
   top: 0;
@@ -81,7 +82,7 @@ a {
 footer {
   bottom: 0;
   left: 0;
-
+  margin-top: 10%;
   width: 100%;
   position: fixed;
   background-color: #00101c;
@@ -101,4 +102,17 @@ button.CV {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+}
+h3.Socials {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  display: inline-block;
+}
+h3.pne {
+  display: inline-block;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  text-align: right;
+  margin-left: 71%;
+  margin-right: 3%;
 }
