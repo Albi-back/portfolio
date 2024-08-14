@@ -42,14 +42,16 @@ button.Home {
   font-size: 16px;
 }
 button.work {
-  background-color: #04aa6d; /* Green */
-  border: none;
-
-  padding: 15px 32px;
-  text-align: center;
+  width: 100%;
+  height: 110%;
+  color: #fff;
+  border-radius: 30px;
+  font-weight: 400;
+  letter-spacing: 1px;
   text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
+  transition: 0.5s;
+  overflow: hidden;
+  backdrop-filter: blur(15px);
 }
 a {
   text-decoration: none;
