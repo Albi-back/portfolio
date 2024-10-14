@@ -38,6 +38,15 @@ p.ps {
   font-size: x-large;
   margin-bottom: 12%;
 }
+p.pc {
+  margin-top: 5%;
+  text-align: center;
+  margin-left: 37%;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  font-size: x-large;
+  margin-bottom: 12%;
+}
 iframe.right {
   margin-left: 65%;
 
