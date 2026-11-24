@@ -1,5 +1,15 @@
 <!DOCTYPE html>
 <html lang="en-US">
+  <script>
+      
+    if (/Android|iPhone|iPad|iPod|Mobile/i.test(navigator.userAgent)) {
+        document.write('<link rel="stylesheet" href="mobile.css">');
+    } else {
+        document.write('<link rel="stylesheet" href="desktop.css">');
+    }
+
+    
+  </script>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
